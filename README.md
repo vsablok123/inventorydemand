@@ -26,7 +26,7 @@ The main challenge in this project was the size of data. I went through a lot of
 The next steps should be to use a cloud computing system to run the model on all of training data to see if there is improvement in performance. Also, I could try using some better features which capture deeper interations between the base features. I saw this in top solutions of kagglers where they used Vowpal Wabbit/Linear regression on previous week and used the predicted outputs as a training set feature. Another idea should be to create an end to end web service around it so that a Sales guy can easily study the Predicted demands by Product,Region or Client. 
 
 Reference Links ->
-https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data
+https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data 
 https://towardsdatascience.com/how-to-handle-large-datasets-in-python-with-pandas-and-dask-34f43a897d55
 https://towardsdatascience.com/build-xgboost-lightgbm-models-on-large-datasets-what-are-the-possible-solutions-bf882da2c27d
 https://towardsdatascience.com/how-to-learn-from-bigdata-files-on-low-memory-incremental-learning-d377282d38ff#d167
